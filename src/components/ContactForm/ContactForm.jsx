@@ -22,7 +22,7 @@ export const ContactForm = () => {
       <form
         className={css.form}
         // please use your own getform api here
-        action="https://getform.io/f/pbnveyob"
+        action="https://getform.io/f/zbzkldra"
         method="POST"
       >
         <div className={css.formWrap}>
